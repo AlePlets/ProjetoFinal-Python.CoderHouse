@@ -4,7 +4,7 @@ Este repositório é utilizado para desenvolvimento do Projeto Final de conclus�
 
 ## Colaboradores
 
-- Alessandra Regina da Silva
+- Alessandra Silva
 - Beatriz Marci
 
 
