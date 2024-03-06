@@ -13,7 +13,7 @@ O Projeto Final consiste em uma aplicação Python que interage com APIs externa
 
 ### Objetivos
 
-- Escolher uma API da lista disponível.
+- Escolher uma API da lista disponível. A API escolhida foi [REST Countries](https://restcountries.com/v3.1/all).
 - Fazer a extração de pelo menos 3 tabelas.
 - Criar um alerta de erro usando a função `alerta()`.
 
@@ -23,6 +23,14 @@ O Projeto Final consiste em uma aplicação Python que interage com APIs externa
 - Pandas para manipulação de dados
 - Requests para requisições HTTP
 - Plyer para notificações desktop
+
+### Dependências
+
+Para instalar as dependências necessárias para executar o projeto, utilize o seguinte comando:
+
+```bash
+pip install -r projeto-final/requirements.txt
+
 
 ### Dependências
 
