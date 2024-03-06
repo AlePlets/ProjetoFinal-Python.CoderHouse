@@ -30,15 +30,6 @@ Para instalar as dependências necessárias para executar o projeto, utilize o s
 
 ```bash
 pip install -r projeto-final/requirements.txt
-
-```
-
-### Dependências
-
-Para instalar as dependências necessárias para executar o projeto, utilize o seguinte comando:
-
-```bash
-pip install -r projeto-final/requirements.txt
 ```
 
 ### As principais bibliotecas incluídas são:
